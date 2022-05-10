@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(20, 136, 136, 0.644);
+    
+}
+textarea{
+    position: relative;
+    left: 1px;
+    height: 95px;
+    width: 475px; 
+ } 
